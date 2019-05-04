@@ -4,7 +4,7 @@ This project implements an electronic cash system, in which the digital cash can
 The system allows money transaction between three parties: Customer, Merchant and
 Bank.
 
-Customer: \n
+Customer:\
 • generates N orders for each money order the customer wants to make
 • and assigns a different random uniqueness string number for each of
 • the N ecash money orders
